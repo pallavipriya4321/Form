@@ -1,0 +1,43 @@
+#input{
+    margin: 0.5 rem;
+}
+
+.email,.contact,.city,.language{
+    padding: 15px;
+}
+
+.form-inline {  
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+  }
+  .form-wrapper{
+      align-items: center;
+      margin: 15% 12% -0.5%;
+  }
+form {
+    padding: 2%;
+    height: auto;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Quicksand', sans-serif;   
+}
+
+.btn{
+padding: 0.8% 2%;
+margin: 1% 42% 1.5%;
+align-items: center;
+border-radius: 0%;
+text-align: center;
+font-size: 20px;
+width: 250px;
+}
+.no-border{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 10;    
+}
+.help{
+    text-align: center;
+}
