@@ -18,16 +18,16 @@
     <link href="styles.css" rel="stylesheet">
   </head>
 
-  <body onload='document.form1.email.focus()'></bodyonload>>
+  <body >
     <section id="input">
     <div class="form-wrapper">
-    <form class="form-inline" name="form1" method="post" action="" onsubmit="return success();">  
+    <form class="form-inline" name="form1" method="post" action="index1.html" onsubmit="return success();">  
         <div class="email col-lg-6 col-md-12">  
         <input type="email " class="form-control no-border"  name="email" placeholder="Email*" required></div>
         <div class="contact col-lg-6 col-md-12">
         <input type="number" class="form-control no-border" name="mobile" placeholder=" Mobile Number*" onclick="return validateEmail()" required></div>
         <div class="city col-lg-6 col-md-12">
-        <select class="form-select form-control no-border " aria-label="Default select example" onclick="return validateMobile()" required>
+        <select class="form-select form-control no-border " aria-label="Default select example"  onclick="return validateMobile()" required>
           <option value="" selected>Select City*</option>
           <option value="1">Mumbai</option>
           <option value="2">Lucknow</option>
@@ -52,7 +52,7 @@
       </section>
       
       <div class="text-center">
-         <button type="submit" class="btn btn-lg btn-warning button-block text-center" name="submit" >Add to Cart</button>
+         <button type="submit" class="btn btn-lg btn-warning button-block text-center" name="submit">Add to Cart</button>
           <br>
           <div class="help">
             Need to speak to an expert?
