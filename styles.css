@@ -23,9 +23,18 @@ form {
     font-family: 'Quicksand', sans-serif;   
 }
 
+#addToCart{
+    align-items: center;
+}
+
+.button-block{
+    align-items: center;
+}
+
 .btn{
 padding: 0.8% 2%;
-margin: 1% 42% 1.5%;
+margin-bottom: 1.5%;
+margin-top: 1.8%;
 align-items: center;
 border-radius: 0%;
 text-align: center;
