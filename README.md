@@ -1,5 +1,15 @@
 ### This repo is for career360.in
 # Form
+
+## [View the form](https://nifty-lewin-dfd1b3.netlify.app/)
+
+## Technologies used
+* HTML 
+* CSS
+* Javascript
+## Framework
+* Bootstrap
+
 ## The form looks like this
 <img src="https://github.com/pallavipriya4321/Form/blob/main/images/1.png">
 <br>
@@ -21,4 +31,6 @@
 <br>
 <img src="https://github.com/pallavipriya4321/Form/blob/main/images/4.png">
 
-## I hope u like it, And I have done everything that u were expecting of. Thanks for thr opportunity.
+## I hope you like it, And I have done everything that u were expecting of. Thanks for the opportunity.
+
+
