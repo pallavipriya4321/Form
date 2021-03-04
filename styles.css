@@ -1,15 +1,16 @@
 #input{
-    margin: 0.5 rem;
+    align-items: center;
 }
 
 .email,.contact,.city,.language{
-    padding: 15px;
+    padding: 15px 8px;
 }
 
 .form-inline {  
     display: flex;
     flex-flow: row wrap;
     align-items: center;
+    justify-content: center;
   }
   .form-wrapper{
       align-items: center;
