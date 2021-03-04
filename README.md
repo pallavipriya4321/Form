@@ -31,6 +31,6 @@
 <br>
 <img src="https://github.com/pallavipriya4321/Form/blob/main/images/4.png">
 
-## I hope you like it, And I have done everything that u were expecting of. Thanks for the opportunity.
+## I hope you like it, And I have done everything that you were expecting of. Thanks for the opportunity.
 
 
