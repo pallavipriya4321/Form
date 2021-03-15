@@ -1,4 +1,4 @@
-### This repo is for career360.in
+### This repo is for company360.in
 # Form
 
 ## [View the form](https://nifty-lewin-dfd1b3.netlify.app/)
